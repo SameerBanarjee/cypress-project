@@ -44,3 +44,8 @@ cd cypress-project
 
 # Install dependencies
 npm install
+
+## 🛡️ Ownership
+This project and all its source code, content, and design belong solely to **Sameer Banarjee**.
+Unauthorized reproduction, distribution, or use of any part of this project without explicit permission is strictly prohibited.
+© 2025 Sameer Banarjee. All rights reserved.
