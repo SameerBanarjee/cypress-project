@@ -1,0 +1,15 @@
+{
+  "username": "your_username",
+  "password": "your_password",
+  "botName":"BotBySam",
+  "botNames": ["BotBySam", "BotBySam2", "BotBySam3", "BotBySam4", "BotBySam5"],
+  "bot_message": "Sample Bot Message",
+  "learningInstanceName": "MyLearningInstance",
+  "learningInstance": {
+    "name": "TestLI 123",
+    "description": "This is a test learning instance",
+    "fieldName": "TestField invoice",
+    "fieldLabel": "Test Field Label invoice "
+  },
+  "author": "Sameer Banarjee"
+}
