@@ -37,7 +37,7 @@ This makes it easier to update credentials, input data, etc., without changing t
 - Node.js installed
 - Git installed
 
-### Installation Steps
+## Installation Steps
 # Clone the repository
 git clone https://github.com/SameerBanarjee/cypress-project.git
 cd cypress-project
